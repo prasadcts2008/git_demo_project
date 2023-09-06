@@ -8,6 +8,9 @@ public class App {
 			System.out.println("welcomes");
 		}
 	}
+	public void dispaly(){
+	System.out.println("Added new method");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
